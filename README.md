@@ -121,7 +121,7 @@ Los datos se cargan desde el archivo `data.csv`.
 
 - **Python**
 - **pandas, numpy**
-- **matplotlib, seaborn**
+- **matplotlib, `seaborn**`
 - **statsmodels**
 - **scikit-learn**
 - **XGBoost**
@@ -151,4 +151,4 @@ Los datos se cargan desde el archivo `data.csv`.
 ## 👤 Autor
 
 **Flavia Hepp**  
-Data Scientist / Energy Analytics en formación  
+Data Scientist en formación / Energy Analytics en formación  
